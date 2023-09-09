@@ -4,3 +4,9 @@ C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\obj\Release\
 C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\obj\Release\Run Length encoding.csproj.CoreCompileInputs.cache
 C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\obj\Release\Run_Length_encoding.exe
 C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\obj\Release\Run_Length_encoding.pdb
+C:\Users\GGPC\OneDrive\Documents\RLE-Generator\Run Length encoding\Run Length encoding\bin\Release\Run_Length_encoding.exe
+C:\Users\GGPC\OneDrive\Documents\RLE-Generator\Run Length encoding\Run Length encoding\bin\Release\Run_Length_encoding.pdb
+C:\Users\GGPC\OneDrive\Documents\RLE-Generator\Run Length encoding\Run Length encoding\obj\Release\Run Length encoding.csproj.AssemblyReference.cache
+C:\Users\GGPC\OneDrive\Documents\RLE-Generator\Run Length encoding\Run Length encoding\obj\Release\Run Length encoding.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\OneDrive\Documents\RLE-Generator\Run Length encoding\Run Length encoding\obj\Release\Run_Length_encoding.exe
+C:\Users\GGPC\OneDrive\Documents\RLE-Generator\Run Length encoding\Run Length encoding\obj\Release\Run_Length_encoding.pdb

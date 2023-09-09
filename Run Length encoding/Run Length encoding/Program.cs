@@ -6,6 +6,7 @@ namespace Run_Length_encoding
     {
         public static void Main(string[] args)
         {
+            Console.Title = "RLE Generator";
             TitleCard();
             programStart:
             Console.ForegroundColor = ConsoleColor.White;
