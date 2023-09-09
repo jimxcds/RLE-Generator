@@ -1,0 +1,6 @@
+C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\bin\Debug\Run_Length_encoding.exe
+C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\bin\Debug\Run_Length_encoding.pdb
+C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\obj\Debug\Run Length encoding.csproj.AssemblyReference.cache
+C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\obj\Debug\Run Length encoding.csproj.CoreCompileInputs.cache
+C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\obj\Debug\Run_Length_encoding.exe
+C:\Users\GGPC\RiderProjects\Run Length encoding\Run Length encoding\obj\Debug\Run_Length_encoding.pdb
